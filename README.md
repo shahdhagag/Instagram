@@ -1,10 +1,9 @@
-Perfect! I can create a **clean, stylish GitHub README** for your Instagram Viewer Flutter app, including your API, packages, features, and screenshots in a row. Here's a polished version:
-
----
 
 # Instagram Viewer Flutter App 📱✨
 
-A Flutter app to **search any public Instagram username** and view their **profile, posts, followers, and reels**. You can **watch Instagram reels directly** within the app with a sleek, interactive interface. Powered by [Instagram Scraper API on RapidAPI](https://rapidapi.com/DavidGelling/api/instagram-scraper-20251/playground/apiendpoint_468cd28f-1103-44c9-8492-9495ad57a61f).
+This app is built using **Flutter** and demonstrates **practical use of an API**. I practiced fetching and handling data from the [Instagram Scraper API on RapidAPI](https://rapidapi.com/DavidGelling/api/instagram-scraper-20251/playground/apiendpoint_468cd28f-1103-44c9-8492-9495ad57a61f) to create an interactive Instagram viewer.
+
+With this app, you can **search any public Instagram username** and view their **profile, posts, followers, and reels**. You can also **watch Instagram reels directly** within the app, featuring a sleek, Instagram-like interface.
 
 ---
 
